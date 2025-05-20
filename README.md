@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Analysis-Complete-brightgreen.svg)
 
-> This project presents a comparative financial ratio analysis of **BMW** and **Volkswagen** over a four-year period (2016–2019), focusing on key metrics of profitability, liquidity, activity, and solvency. Built entirely in Microsoft Excel, the analysis offers data-backed insights to support strategic financial decision-making.
+> This project presents a comparative financial ratio analysis of **BMW** and **Volkswagen** over a four-year period (2016–2019), focusing on key metrics of profitability, liquidity, activity, and solvency. Built entirely in Microsoft Excel, the analysis offers data-backed insights to support strategic financial decision-making.  
 
 ---
 
